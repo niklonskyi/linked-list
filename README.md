@@ -1,4 +1,4 @@
-# linked-lists
+# linked-list
 
 This is a simple implementation of a linked list in JavaScript. The implementation includes two functions: 
 `LinkedList` and `Node`.
